@@ -1,0 +1,797 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.7.23)  16 AUG 2010 11:30
+entering extended mode
+**TUC*-*LaTeX-Template*for*scientific*artifacts.tex
+
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\TUC
+ - LaTeX-Template for scientific artifacts.tex"
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
+\@input{meta/layout.aux}
+
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\met
+a/layout.tex"
+(C:\Users\krawr\AppData\Roaming\MiKTeX\2.8\tex\latex\koma-script\scrreprt.cls
+Document Class: scrreprt 2010/02/15 v3.05 KOMA-Script document class (report)
+(C:\Users\krawr\AppData\Roaming\MiKTeX\2.8\tex\latex\koma-script\scrkbase.sty
+Package: scrkbase 2010/02/15 v3.05 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(C:\Users\krawr\AppData\Roaming\MiKTeX\2.8\tex\latex\koma-script\scrbase.sty
+Package: scrbase 2010/02/15 v3.05 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(C:\Users\krawr\AppData\Roaming\MiKTeX\2.8\tex\latex\koma-script\scrlfile.sty
+Package: scrlfile 2009/03/25 v3.03 KOMA-Script package (loading files)
+
+Package scrlfile, 2009/03/25 v3.03 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+)))
+(C:\Users\krawr\AppData\Roaming\MiKTeX\2.8\tex\latex\koma-script\tocbasic.sty
+Package: tocbasic 2010/01/05 v3.04b KOMA-Script package (handling toc-files)
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 117.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 118.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 119.
+Package scrreprt Info: You've used obsolete option `12pt'.
+(scrreprt)             \KOMAExecuteOptions{fontsize=12pt} will be
+(scrreprt)             used instead.
+(scrreprt)             You may simply replace `12pt'
+(scrreprt)             by `fontsize=12pt'.
+
+
+Class scrreprt Warning: You've used obsolete option `smallheadings'.
+(scrreprt)              Usage of this option indicates an old document and
+(scrreprt)              changes compatibility level using
+(scrreprt)              `headings=small,version=first'.
+(scrreprt)              If you don't want this, you should simply replace
+(scrreprt)              usage of option `smallheadings' by `headings=small'.
+
+Class scrreprt Info: Switching compatibility level to `first'.
+Class scrreprt Info: You've used standard option `openright'.
+(scrreprt)           This is correct!
+(scrreprt)           Internally I'm using `open=right'.
+(scrreprt)           If you'd like to set the option with \KOMAoptions,
+(scrreprt)           you'd have to use `open=right' there
+(scrreprt)           instead of `openright', too.
+
+Class scrreprt Warning: You've used obsolete option `cleardoubleempty'.
+(scrreprt)              Usage of this option indicates an old document and
+(scrreprt)              changes compatibility level using
+(scrreprt)              `cleardoublepage=empty,version=first'.
+(scrreprt)              If you don't want this, you should simply replace
+(scrreprt)              usage of option `cleardoubleempty' by `cleardoublepage=
+empty'.
+
+Class scrreprt Info: Switching compatibility level to `first'.
+Class scrreprt Info: You've used standard option `abstracton'.
+(scrreprt)           This is correct!
+(scrreprt)           Internally I'm using `abstract=true'.
+(scrreprt)           If you'd like to set the option with \KOMAoptions,
+(scrreprt)           you'd have to use `abstract=true' there
+(scrreprt)           instead of `abstracton', too.
+Class scrreprt Info: File `scrsize12pt.clo' used to setup font sizes on input l
+ine 1271.
+
+(C:\Users\krawr\AppData\Roaming\MiKTeX\2.8\tex\latex\koma-script\scrsize12pt.cl
+o
+File: scrsize12pt.clo 2010/02/15 v3.05 KOMA-Script font size class option (12pt
+)
+)
+(C:\Users\krawr\AppData\Roaming\MiKTeX\2.8\tex\latex\koma-script\typearea.sty
+Package: typearea 2010/02/15 v3.05 KOMA-Script package (type area)
+
+Package typearea, 2010/02/15 v3.05 KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+\ta@bcor=\skip41
+\ta@div=\count79
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+\ta@hblk=\skip42
+\ta@vblk=\skip43
+\ta@temp=\skip44
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 12
+(typearea)             BCOR = 22.76219pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 431.05931pt
+(typearea)              DIV departure   = -2%
+(typearea)              \evensidemargin = 23.52097pt
+(typearea)              \oddsidemargin  = -1.61232pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 606.5pt
+(typearea)              \topmargin      = -1.84941pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
+(typearea)              on input line 1115.
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\abovecaptionskip=\skip45
+\belowcaptionskip=\skip46
+\c@pti@nb@sid@b@x=\box26
+\c@figure=\count87
+\c@table=\count88
+\bibindent=\dimen102
+) ("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\base\latin1.def"
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\ae\ae.sty"
+Package: ae 2001/02/12 1.3 Almost European Computer Modern
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\ae\t1aer.fd"
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+)))
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\ae\aecompl.sty"
+Package: aecompl 1998/07/23 0.9 T1 Complements for AE fonts (D. Roegel)
+)
+(C:\Users\krawr\AppData\Roaming\MiKTeX\2.8\tex\latex\german\ngerman.sty
+v2.5e 1998-07-08
+Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
+\grmnU@D=\dimen103
+ngerman -- \language number for naustrian undefined, default 4 used.
+)
+(C:\Users\krawr\AppData\Roaming\MiKTeX\2.8\tex\latex\germbib\bibgerm.sty
+Package: bibgerm 2000/08/18 v0.1 Support for mixed language bibliographies
+
+** Macros for german `BibTeX'ing added to Style Option `german' 20 Apr 1993 **
+** idea and languages `german' and `USenglish' implemented by M. Wallmeier **
+** Modified for LaTeX 2e and german.sty 2.5b by A. Scherer 1 Nov 1995 **
+** Modified for ngerman.sty and babel.sty by H. Harders 21 August 2000 **)
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count89
+\calc@Bcount=\count90
+\calc@Adimen=\dimen104
+\calc@Bdimen=\dimen105
+\calc@Askip=\skip47
+\calc@Bskip=\skip48
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count91
+\calc@Cskip=\skip49
+)
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2009/08/25 v0.04m Graphics/color for pdfTeX
+\Gread@gobject=\count92
+))
+(C:\Users\krawr\AppData\Roaming\MiKTeX\2.8\tex\latex\fancybox\fancybox.sty
+Package: fancybox 2000/09/19 1.3
+
+Style option: `fancybox' v1.3 <2000/09/19> (tvz)
+\@fancybox=\box27
+\shadowsize=\dimen106
+\@Sbox=\box28
+\do@VerbBox=\toks17
+\the@fancyput=\toks18
+\this@fancyput=\toks19
+\EndVerbatimTokens=\toks20
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+) (C:\Users\krawr\AppData\Roaming\MiKTeX\2.8\tex\latex\fancyvrb\fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count93
+\FV@InFile=\read2
+\FV@TabBox=\box29
+\c@FancyVerbLine=\count94
+\FV@StepNumber=\count95
+\FV@OutFile=\write4
+)
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count96
+\float@exts=\toks21
+\float@box=\box30
+\@float@everytoks=\toks22
+\@floatcapt=\box31
+)
+(C:\Users\krawr\AppData\Roaming\MiKTeX\2.8\tex\latex\mdwtools\mdwlist.sty
+Package: mdwlist 1996/05/02 1.1 Various list-related things
+)
+(C:\Users\krawr\AppData\Roaming\MiKTeX\2.8\tex\latex\koma-script\scrdate.sty
+Package: scrdate 2009/01/01 v1.1p LaTeX2e KOMA-Script package
+
+
+Package scrdate Warning: Language italian not defined.
+(scrdate)                \dayname@italian skipped!.
+
+
+Package scrdate Warning: Language spanish not defined.
+(scrdate)                \dayname@spanish skipped!.
+
+
+Package scrdate Warning: Language croatian not defined.
+(scrdate)                \dayname@croatian skipped!.
+
+
+Package scrdate Warning: Language dutch not defined.
+(scrdate)                \dayname@dutch skipped!.
+
+
+Package scrdate Warning: Language finnish not defined.
+(scrdate)                \dayname@finnish skipped!.
+
+
+Package scrdate Warning: Language norsk not defined.
+(scrdate)                \dayname@norsk skipped!.
+
+) (C:\Users\krawr\AppData\Roaming\MiKTeX\2.8\tex\latex\koma-script\scrtime.sty
+Package: scrtime 2009/01/01 v1.1p LaTeX2e KOMA-Script package
+) (C:\Users\krawr\AppData\Roaming\MiKTeX\2.8\tex\latex\koma-script\scrpage2.sty
+Package: scrpage2 2009/11/11 v2.4 LaTeX2e KOMA-Script package
+LaTeX Info: Redefining \pagemark on input line 176.
+) ("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\tools\tabularx.sty"
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen107
+\extrarowheight=\dimen108
+\NC@list=\toks23
+\extratabsurround=\skip50
+\backup@length=\skip51
+)
+\TX@col@width=\dimen109
+\TX@old@table=\dimen110
+\TX@old@col=\dimen111
+\TX@target=\dimen112
+\TX@delta=\dimen113
+\TX@cols=\count97
+\TX@ftn=\toks24
+)
+(C:\Users\krawr\AppData\Roaming\MiKTeX\2.8\tex\latex\listings\listings.sty
+\lst@mode=\count98
+\lst@gtempboxa=\box32
+\lst@token=\toks25
+\lst@length=\count99
+\lst@currlwidth=\dimen114
+\lst@column=\count100
+\lst@pos=\count101
+\lst@lostspace=\dimen115
+\lst@width=\dimen116
+\lst@newlines=\count102
+\lst@lineno=\count103
+\lst@maxwidth=\dimen117
+
+(C:\Users\krawr\AppData\Roaming\MiKTeX\2.8\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count104
+\lst@skipnumbers=\count105
+\lst@framebox=\box33
+)
+(C:\Users\krawr\AppData\Roaming\MiKTeX\2.8\tex\latex\listings\listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(C:\Users\krawr\AppData\Roaming\MiKTeX\2.8\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(C:\Users\krawr\AppData\Roaming\MiKTeX\2.8\tex\latex\colortbl\colortbl.sty
+Package: colortbl 2001/02/13 v0.1j Color table columns (DPC)
+\everycr=\toks26
+\minrowclearance=\skip52
+)
+LaTeX Info: Redefining \color on input line 702.
+\rownum=\count106
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen118
+\Gin@req@width=\dimen119
+)
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\thumbpdf\thumbpdf.sty"
+Package: thumbpdf 2008/04/16 v3.10 Inclusion of thumbnails (HO)
+
+
+Package thumbpdf Warning: Thumbnail data file `TUC*-*LaTeX-Template*for*scienti
+fic*artifacts.tpt' not found.
+
+) ("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2009/10/19 v6.79b Hypertext links for LaTeX
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\ifxetex\ifxetex.sty"
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\oberdiek\hycolor.sty"
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\oberdiek\xcolor-patch.sty"
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen120
+\Hy@linkcounter=\count107
+\Hy@pagecounter=\count108
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2009/10/19 v6.79b Hyperref: PDFDocEncoding definition (HO)
+)
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 2864.
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+LaTeX Info: Redefining \url on input line 3428.
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\generic\oberdiek\bitset.sty"
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\generic\oberdiek\intcalc.sty"
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\generic\oberdiek\bigintcalc.sty"
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)))
+\Fld@menulength=\count109
+\Field@Width=\dimen121
+\Fld@charsize=\dimen122
+\Field@toks=\toks27
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring ON on input line 4395.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count110
+\c@Item=\count111
+)
+*hyperref using default driver hpdftex*
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2009/10/19 v6.79b Hyperref driver for pdfTeX
+\Fld@listcount=\count112
+)
+\c@bsp=\count113
+\c@satz=\count114
+)
+
+LaTeX Warning: Unused global option(s):
+    [footnosepline=true].
+
+
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\TUC
+ - LaTeX-Template for scientific artifacts.aux"
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\met
+a/metadaten.aux"))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+
+bibgerm.sty: (n)german.sty 2.5b detected
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\context\base\supp-pdf.tex"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count115
+\scratchdimen=\dimen123
+\scratchbox=\box34
+\nofMPsegments=\count116
+\nofMParguments=\count117
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count118
+\MPscratchDim=\dimen124
+\MPnumerator=\count119
+\everyMPtoPDFconversion=\toks29
+)
+
+Package scrdate Warning: \dategerman not defined.
+(scrdate)                \todaysnamemaybe can't use \dayname@german!.
+
+\c@lstlisting=\count120
+Package hyperref Info: Link coloring ON on input line 7.
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\hyperref\nameref.sty"
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\oberdiek\refcount.sty"
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count121
+)
+LaTeX Info: Redefining \ref on input line 7.
+LaTeX Info: Redefining \pageref on input line 7.
+
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\TUC
+ - LaTeX-Template for scientific artifacts.out")
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\TUC
+ - LaTeX-Template for scientific artifacts.out")
+\@outlinefile=\write5
+\AtBeginShipoutBox=\box35
+
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\met
+a/metadaten.tex")
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\for
+malLayout/titel.tex")
+LaTeX Font Info:    Try loading font information for T1+aess on input line 16.
+ ("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\ae\t1aess.fd"
+File: t1aess.fd 1997/11/16 Font definitions for T1/aess.
+) <img/TUC_deutsch_einzeile_CMYK.pdf, id=31, 273.02pt x 24.09pt>
+File: img/TUC_deutsch_einzeile_CMYK.pdf Graphic file (type pdf)
+
+<use img/TUC_deutsch_einzeile_CMYK.pdf>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 16.
+ [1
+
+
+
+
+
+
+
+{C:/Users/krawr/AppData/Local/MiKTeX/2.8/pdftex/config/pdftex.map} <D:/TU Chemn
+itz/Knowledge-Repository/technical Tutorials & Compiler/LaTeX/TU Chemnitz - Tem
+plate - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)/img/TUC_deutsch_
+einzeile_CMYK.pdf>] [2
+
+]
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\for
+malLayout/danksagung.tex" [3] [4
+
+
+])
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\for
+malLayout/abstract.tex" [5
+
+
+])
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\for
+malLayout/inhaltsverzeichnis.tex" [6
+
+
+]
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\TUC
+ - LaTeX-Template for scientific artifacts.toc"
+Class scrreprt Info: You've told me to use the font selection of the element
+(scrreprt)           `sectioning' that is an alias of element `disposition'
+(scrreprt)            on input line 1.
+Class scrreprt Info: You've told me to use the font selection of the element
+(scrreprt)           `sectioning' that is an alias of element `disposition'
+(scrreprt)            on input line 2.
+Class scrreprt Info: You've told me to use the font selection of the element
+(scrreprt)           `sectioning' that is an alias of element `disposition'
+(scrreprt)            on input line 3.
+Class scrreprt Info: You've told me to use the font selection of the element
+(scrreprt)           `sectioning' that is an alias of element `disposition'
+(scrreprt)            on input line 4.
+Class scrreprt Info: You've told me to use the font selection of the element
+(scrreprt)           `sectioning' that is an alias of element `disposition'
+(scrreprt)            on input line 5.
+)
+\tf@toc=\write6
+)
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\for
+malLayout/abbildungsverzeichnis.tex"
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 1.
+ [1
+
+
+] [2
+
+
+]
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\TUC
+ - LaTeX-Template for scientific artifacts.lof")
+\tf@lof=\write7
+)
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\for
+malLayout/tabellenverzeichnis.tex" [3
+
+
+] [4
+
+
+]
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\TUC
+ - LaTeX-Template for scientific artifacts.lot")
+\tf@lot=\write8
+)
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\for
+malLayout/chapterInitilisation.tex" [5
+
+
+] [6
+
+
+])
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\cha
+pters/einleitung.tex"
+Kapitel 1.
+
+Class scrreprt Warning: \float@addtolists detected!
+(scrreprt)              You should use the features of package `tocbasic'
+(scrreprt)              instead of \float@addtolists.
+(scrreprt)              Support for \float@addtolists may be removed from
+(scrreprt)              `scrreprt' soon .
+
+LaTeX Font Info:    Try loading font information for OMS+aer on input line 12.
+("D:\ProgramFiles\OFFICE\MiKTeX 2.8\tex\latex\ae\omsaer.fd"
+File: omsaer.fd 1999/12/27
+)
+LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 12.
+File: img/TUC_deutsch_einzeile_CMYK.pdf Graphic file (type pdf)
+
+<use img/TUC_deutsch_einzeile_CMYK.pdf>pdfTeX warning (ext4): destination with 
+the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.43 
+      [1
+
+
+])
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\cha
+pters/grundkonzepte.tex"pdfTeX warning (ext4): destination with the same identi
+fier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \chapter
+            {Grundkonzept} [2]
+Kapitel 2.
+)
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\for
+malLayout/glossar.tex")
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\for
+malLayout/literaturverzeichnis.tex"
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\TUC
+ - LaTeX-Template for scientific artifacts.bbl"pdfTeX warning (ext4): destinati
+on with the same identifier (name{page.3}) has been already used, duplicate ign
+ored
+<to be read again> 
+                   \relax 
+l.1 \begin{thebibliography}{GH}
+                                [3
+
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \begin{thebibliography}{GH}
+                                [4
+
+
+]
+Underfull \hbox (badness 2245) in paragraph at lines 4--7
+[]\T1/aer/m/sc/12 Gaedke, Mar-tin \T1/aer/m/n/12 und \T1/aer/m/sc/12 An-dre-as 
+Heil\T1/aer/m/n/12 : \T1/aer/m/it/12 GET /dgs HTT-P/1.1 Host:
+ []
+
+)pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.5 \cleardoublepage
+                     [5]pdfTeX warning (ext4): destination with the same identi
+fier (name{page.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.5 \cleardoublepage
+                     [6
+
+
+])
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\for
+malLayout/selbstständigkeitserklärung.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 5--11
+
+ []
+
+\us=\skip53
+) [7
+
+
+]
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\TUC
+ - LaTeX-Template for scientific artifacts.aux"
+("D:\TU Chemnitz\Knowledge-Repository\technical Tutorials & Compiler\LaTeX\TU C
+hemnitz - Template - Diplomarbeit mit LaTeX & TexNicCenter (inkl. Tutorial)\met
+a/metadaten.aux")) ) 
+Here is how much of TeX's memory you used:
+ 9016 strings out of 495285
+ 142578 string characters out of 3179878
+ 235027 words of memory out of 3000000
+ 11929 multiletter control sequences out of 15000+200000
+ 48482 words of font info for 87 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 47i,10n,56p,336b,362s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/ProgramFiles/OFFICE/MiKTeX 2.8/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb><D:/ProgramFiles/OFFICE/MiKTeX 2.8/fonts/type1/public/amsfont
+s/cm/cmcsc10.pfb><D:/ProgramFiles/OFFICE/MiKTeX 2.8/fonts/type1/public/amsfonts
+/cm/cmr10.pfb><D:/ProgramFiles/OFFICE/MiKTeX 2.8/fonts/type1/public/amsfonts/cm
+/cmr12.pfb><D:/ProgramFiles/OFFICE/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cm
+r17.pfb><D:/ProgramFiles/OFFICE/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr8.
+pfb><D:/ProgramFiles/OFFICE/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmss12.pf
+b><D:/ProgramFiles/OFFICE/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmss17.pfb>
+<D:/ProgramFiles/OFFICE/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
+<D:/ProgramFiles/OFFICE/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D
+:/ProgramFiles/OFFICE/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "TUC - LaTeX-Template for scientific artifacts.pdf" (19 pages
+, 160799 bytes).
+PDF statistics:
+ 175 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
+ 62 words of extra memory for PDF output out of 10000 (max. 10000000)
+

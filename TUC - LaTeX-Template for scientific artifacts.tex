@@ -1,0 +1,43 @@
+%%==========================================================================================
+%% Dokumenten- & Seitenlayout
+%%==========================================================================================
+\include{meta/layout}
+
+
+\begin{document}
+	%%========================================================================================
+	%% Variablen, \hypersetup, etc
+	%%========================================================================================
+	\include{meta/metadaten}
+	
+	%%========================================================================================
+	%% formaler Aufbau - Anfang
+	%%========================================================================================
+	\input{formalLayout/titel} 
+	\input{formalLayout/danksagung}
+	\input{formalLayout/abstract} 
+	\input{formalLayout/inhaltsverzeichnis}
+	\input{formalLayout/abbildungsverzeichnis}
+	\input{formalLayout/tabellenverzeichnis}
+	%\input{formalLayout/algorithmenverzeichnis}
+	%\input{formalLayout/abkuerzungsverzeichnis}
+	
+	%%========================================================================================
+	%% Verzeichnissauflistung mit weiﬂer Seite abschlieﬂen und danach Seitennummerierung bei 1
+	%%========================================================================================
+	\input{formalLayout/chapterInitilisation}
+	
+	%%========================================================================================	
+	%% I N H A L T 	
+	%%========================================================================================
+	\input{chapters/einleitung}
+	\input{chapters/grundkonzepte}
+	
+	%%========================================================================================	
+	%% formaler Aufbau - Ende 
+	%%========================================================================================
+	\input{formalLayout/glossar}
+	\input{formalLayout/literaturverzeichnis}
+	\input{formalLayout/selbstst‰ndigkeitserkl‰rung}
+	%\input{formalLayout/anhang}
+\end{document}

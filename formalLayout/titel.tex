@@ -1,0 +1,93 @@
+%======================================================================
+%	Titelseite 
+%======================================================================
+%	$Date:$
+%	$Revision:$
+%	Matthias Kupfer
+%======================================================================
+
+%%======================================================================
+%% Schmutztitel
+%%======================================================================
+%\extratitle{
+%	\usekomafont{sectioning}\mdseries 
+%	\begin{center}
+%		\Huge \dcsubject\\[1.5ex]
+%		\hrule
+%		\vspace*{\fill}
+%		\includegraphics{TUC_deutsch_einzeile_CMYK}
+%	\end{center}
+%}
+
+%%======================================================================
+%% Titelkopf
+%%======================================================================
+\titlehead{
+	\vspace*{-1.5cm}
+	% Schriftfamilie wie alle Überschriften, aber nicht fett
+	\usekomafont{disposition}\mdseries 
+	\begin{center}
+		\raisebox{-1ex}{\includegraphics[scale=1.4]{TU_Chemnitz_positiv_gruen}}\\
+		{\Large\dcdepart}\\[0.5em] 
+		\dcprof
+	\end{center}
+	\vspace*{1.5cm}
+}
+
+%%======================================================================
+%% Subjekt
+%%======================================================================
+\subject{\bf\Huge\dcsubject}
+
+
+%%======================================================================
+%% Titel
+%%======================================================================
+\title{\sf\Large
+	\dctitle
+	\\
+	\dcsubtitle
+}
+
+%%======================================================================
+%% Autor des Dokumentes
+%%======================================================================
+\author{\dcauthorfirstname~\dcauthorlastname}
+	
+%%======================================================================
+%% Ort, Datum
+%%======================================================================
+\date{\dcplace, den \dcdate
+}
+
+%%======================================================================
+%% Publishers
+%%======================================================================
+\publishers{
+	{\parbox{\textwidth-8em}{
+		\begin{tabbing}
+			{\bf Betreuer:}\quad\=\kill
+			{\bf Prüfer:}	\>\dcpruefer\\
+			{\bf Betreuer:}	\>\dcadvisor
+		\end{tabbing}	
+	}}
+}
+
+%%======================================================================
+%% bibliografische Angaben
+%%======================================================================
+\lowertitleback{
+\textbf{\dcauthorlastname, \dcauthorfirstname}\\
+\dctitle\\
+\dcsubject,~\dcdepart\\
+\dcuni,~\ifcase\month\or
+  Januar\or Februar\or März\or April\or Mai\or Juni\or
+    Juli\or August\or September\or Oktober\or November\or Dezember\fi
+    ~\number\year
+}
+
+%%======================================================================
+%% maketitle
+%%======================================================================
+
+\maketitle

@@ -1,15 +1,15 @@
 # thesis-template-latex
 This is the current template for writing a thesis in Latex at VSR
 
-#How to use?
+# How to use?
 
-------------------- 01. Projekt umbenennen ------------------------------------------
+## 01. Projekt umbenennen 
 1. "TUC - LaTeX-Template for scientific artifacts.tcp" in "<newName>.tcp" umbenennen
 2. "TUC - LaTeX-Template for scientific artifacts.tex" in "<newName>.tex" umbenennen
 3. "<newName>.tcp" öffnen: 
 	Variable "MainFile" auf "<newName>.tex" setzen
 
-------------------- 02. Texnic einrichten --------------------------------------------
+## 02. Texnic einrichten 
 - Batchdatei für automatische Erstellung nutzen:
 	1.  Menü Ausgabe -> Ausgabeprofile definieren
 	2.  Profil "LaTeX->PDF" auswählen
@@ -27,6 +27,6 @@ This is the current template for writing a thesis in Latex at VSR
 - Metadaten (Name, etc) in "meta/meta.tex" setzen
 
 
-------------------- 03. beim Probe lesen zu beachten: --------------------------------
+## 03. beim Probe lesen zu beachten: 
 
 - nach fehlerhaften Zitaten suchen (Suche nach "[?]")
